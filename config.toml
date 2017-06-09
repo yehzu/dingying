@@ -1,4 +1,4 @@
-baseURL = "http://yehzu.github.io/dingying/"
+baseURL = "https://yehzu.github.io/dingying/"
 languageCode = "zh-tw"
 title = "定影"
 theme = "hugo-theme-minos"
