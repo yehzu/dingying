@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>定影</title>
-    <link>http://example.org/</link>
+    <link>http://yehzu.github.io/</link>
     <description>Recent content on 定影</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yehzu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
