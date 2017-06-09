@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://yehzu.github.io"
 languageCode = "zh-tw"
 title = "定影"
 theme = "hugo-theme-minos"
