@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://yehzu.github.io/dingying/categories/</loc>
+    <loc>https://yehzu.github.io/dingying/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yehzu.github.io/dingying/tags/</loc>
+    <loc>https://yehzu.github.io/dingying/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://yehzu.github.io/dingying/</loc>
+    <loc>https://yehzu.github.io/dingying/</loc>
     <priority>0</priority>
   </url>
   
