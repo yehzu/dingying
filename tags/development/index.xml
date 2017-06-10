@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on 定影</title>
+    <link>https://yehzu.github.io/dingying/tags/development/</link>
+    <description>Recent content in Development on 定影</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 10 Jun 2017 10:25:09 +0800</lastBuildDate>
+    
+	<atom:link href="https://yehzu.github.io/dingying/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello</title>
+      <link>https://yehzu.github.io/dingying/post/hello/</link>
+      <pubDate>Sat, 10 Jun 2017 10:25:09 +0800</pubDate>
+      
+      <guid>https://yehzu.github.io/dingying/post/hello/</guid>
+      <description>this is the first post.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,5 +10,50 @@
 	<atom:link href="https://yehzu.github.io/dingying/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Ddm</title>
+      <link>https://yehzu.github.io/dingying/categories/ddm/</link>
+      <pubDate>Wed, 08 Jan 2014 23:56:09 +0800</pubDate>
+      
+      <guid>https://yehzu.github.io/dingying/categories/ddm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://yehzu.github.io/dingying/categories/development/</link>
+      <pubDate>Sat, 10 Jun 2017 10:25:09 +0800</pubDate>
+      
+      <guid>https://yehzu.github.io/dingying/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang</title>
+      <link>https://yehzu.github.io/dingying/categories/golang/</link>
+      <pubDate>Sat, 10 Jun 2017 10:25:09 +0800</pubDate>
+      
+      <guid>https://yehzu.github.io/dingying/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>https://yehzu.github.io/dingying/categories/others/</link>
+      <pubDate>Mon, 05 Jan 2015 19:35:09 +0800</pubDate>
+      
+      <guid>https://yehzu.github.io/dingying/categories/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taiwan</title>
+      <link>https://yehzu.github.io/dingying/categories/taiwan/</link>
+      <pubDate>Sat, 25 Jan 2014 11:54:09 +0800</pubDate>
+      
+      <guid>https://yehzu.github.io/dingying/categories/taiwan/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

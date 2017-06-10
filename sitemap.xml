@@ -3,17 +3,156 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yehzu.github.io/dingying/post/hello/</loc>
+    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/post/raining-day/</loc>
+    <lastmod>2015-01-05T19:53:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/post/1-dim/</loc>
+    <lastmod>2015-01-05T19:35:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/post/preface/</loc>
+    <lastmod>2014-01-25T11:54:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/post/ddm-meditation-1/</loc>
+    <lastmod>2014-01-08T23:56:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/post/zao-chun-tu/</loc>
+    <lastmod>2012-11-19T23:39:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/1-d/</loc>
+    <lastmod>2015-01-05T19:35:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/buddism/</loc>
+    <lastmod>2015-01-05T19:35:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yehzu.github.io/dingying/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://yehzu.github.io/dingying/categories/ddm/</loc>
+    <lastmod>2014-01-08T23:56:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/ddm/</loc>
+    <lastmod>2014-01-08T23:56:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/categories/development/</loc>
+    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/development/</loc>
+    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/film/</loc>
+    <lastmod>2015-01-05T19:35:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/categories/golang/</loc>
+    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/golang/</loc>
+    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/meditation/</loc>
+    <lastmod>2014-01-08T23:56:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/mood/</loc>
+    <lastmod>2015-01-05T19:53:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/categories/others/</loc>
+    <lastmod>2015-01-05T19:35:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/post/</loc>
+    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yehzu.github.io/dingying/tags/</loc>
+    <lastmod>2015-01-05T19:35:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/categories/taiwan/</loc>
+    <lastmod>2014-01-25T11:54:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/taiwan/</loc>
+    <lastmod>2014-01-25T11:54:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/%E4%B8%AD%E5%9C%8B%E7%B9%AA%E7%95%AB/</loc>
+    <lastmod>2012-11-19T23:39:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yehzu.github.io/dingying/</loc>
+    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/%E8%B5%B0%E8%B7%AF%E7%92%B0%E5%B3%B6/</loc>
+    <lastmod>2014-01-25T11:54:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
