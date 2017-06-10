@@ -1,4 +1,27 @@
 baseURL = "https://yehzu.github.io/dingying/"
 languageCode = "zh-tw"
 title = "定影"
-theme = "hugo-theme-minos"
+theme = "hugo-black-and-light-theme"
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+canonifyurls = true
+
+footnoteReturnLinkContents = "↩"
+
+[[menu.main]]
+    name = "About"
+    url  = "https://yehzu.github.io/dingying"
+[[menu.main]]
+    name = "Flickr"
+    url  = "https://www.flickr.com/photos/yehzu2/"
+
+[params]
+    author = "yehzu"
+    description = ""
+    hasCJKLanguage = true
+    sitename = "定影"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
