@@ -5,7 +5,7 @@ tags: mood
 slug: raining-day
 ---
 
-[Rainy Mood][http://www.rainymood.com/watch?v=ABOxTtxJxNw>]
+[Rainy Mood](http://www.rainymood.com/watch?v=ABOxTtxJxNw)
 
 靜靜地欣賞雨天。
 
