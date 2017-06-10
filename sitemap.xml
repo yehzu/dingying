@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yehzu.github.io/dingying/post/hello/</loc>
-    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yehzu.github.io/dingying/post/raining-day/</loc>
     <lastmod>2015-01-05T19:53:00+08:00</lastmod>
   </url>
@@ -50,44 +45,20 @@
   </url>
   
   <url>
-    <loc>https://yehzu.github.io/dingying/categories/ddm/</loc>
-    <lastmod>2014-01-08T23:56:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yehzu.github.io/dingying/tags/ddm/</loc>
     <lastmod>2014-01-08T23:56:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yehzu.github.io/dingying/categories/development/</loc>
-    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yehzu.github.io/dingying/tags/development/</loc>
-    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
+    <loc>https://yehzu.github.io/dingying/categories/ddm/</loc>
+    <lastmod>2014-01-08T23:56:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yehzu.github.io/dingying/tags/film/</loc>
     <lastmod>2015-01-05T19:35:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yehzu.github.io/dingying/categories/golang/</loc>
-    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yehzu.github.io/dingying/tags/golang/</loc>
-    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,7 +82,7 @@
   
   <url>
     <loc>https://yehzu.github.io/dingying/post/</loc>
-    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
+    <lastmod>2015-01-05T19:53:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -127,13 +98,13 @@
   </url>
   
   <url>
-    <loc>https://yehzu.github.io/dingying/categories/taiwan/</loc>
+    <loc>https://yehzu.github.io/dingying/tags/taiwan/</loc>
     <lastmod>2014-01-25T11:54:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yehzu.github.io/dingying/tags/taiwan/</loc>
+    <loc>https://yehzu.github.io/dingying/categories/taiwan/</loc>
     <lastmod>2014-01-25T11:54:09+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -146,7 +117,7 @@
   
   <url>
     <loc>https://yehzu.github.io/dingying/</loc>
-    <lastmod>2017-06-10T10:25:09+08:00</lastmod>
+    <lastmod>2015-01-05T19:53:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
