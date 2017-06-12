@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yehzu.github.io/dingying/post/beyond-beauty/</loc>
+    <lastmod>2017-06-12T20:16:53+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yehzu.github.io/dingying/post/raining-day/</loc>
     <lastmod>2015-01-05T19:53:00+08:00</lastmod>
   </url>
@@ -34,6 +39,12 @@
   </url>
   
   <url>
+    <loc>https://yehzu.github.io/dingying/tags/beyond-beauty/</loc>
+    <lastmod>2017-06-12T20:16:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yehzu.github.io/dingying/tags/buddism/</loc>
     <lastmod>2015-01-05T19:35:09+08:00</lastmod>
     <priority>0</priority>
@@ -53,6 +64,12 @@
   <url>
     <loc>https://yehzu.github.io/dingying/categories/ddm/</loc>
     <lastmod>2014-01-08T23:56:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/categories/diary/</loc>
+    <lastmod>2017-06-12T20:16:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,7 +99,7 @@
   
   <url>
     <loc>https://yehzu.github.io/dingying/post/</loc>
-    <lastmod>2015-01-05T19:53:00+08:00</lastmod>
+    <lastmod>2017-06-12T20:16:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,7 +116,7 @@
   
   <url>
     <loc>https://yehzu.github.io/dingying/tags/taiwan/</loc>
-    <lastmod>2014-01-25T11:54:09+08:00</lastmod>
+    <lastmod>2017-06-12T20:16:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,7 +134,7 @@
   
   <url>
     <loc>https://yehzu.github.io/dingying/</loc>
-    <lastmod>2015-01-05T19:53:00+08:00</lastmod>
+    <lastmod>2017-06-12T20:16:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
