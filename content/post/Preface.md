@@ -1,8 +1,8 @@
 +++
 
-Categories = ["Taiwan"]
-Description = ""
-Tags = ["走路環島", "Taiwan"]
+categories = ["Taiwan"]
+description = ""
+tags = ["走路環島", "Taiwan"]
 date = "2014-01-25T11:54:09+08:00"
 menu = ""
 title = "走路環島 - 前言"

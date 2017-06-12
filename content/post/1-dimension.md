@@ -1,6 +1,6 @@
 +++
 
-Categories = ["others"]
+categories = ["others"]
 slug = "1-dim"
 Description = ""
 Tags = ["1-d","film", "buddism"]

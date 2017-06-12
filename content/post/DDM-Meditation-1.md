@@ -1,8 +1,8 @@
 +++
 
-Categories = ["ddm"]
-Description = ""
-Tags = ["ddm","meditation", "buddism"]
+categories = ["ddm"]
+description = ""
+tags = ["ddm","meditation", "buddism"]
 date = "2014-01-08T23:56:09+08:00"
 menu = ""
 title = "輕鬆學禪班"
