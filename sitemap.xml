@@ -3,33 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yehzu.github.io/dingying/post/beyond-beauty/</loc>
+    <loc>https://yehzu.github.io/dingying/posts/2019/java-stream-order/</loc>
+    <lastmod>2019-01-10T22:38:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/posts/2017/beyond-beauty/</loc>
     <lastmod>2017-06-12T20:16:53+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yehzu.github.io/dingying/post/raining-day/</loc>
+    <loc>https://yehzu.github.io/dingying/about/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/posts/2015/raining-day/</loc>
     <lastmod>2015-01-05T19:53:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yehzu.github.io/dingying/post/1-dim/</loc>
+    <loc>https://yehzu.github.io/dingying/posts/2015/1-dim/</loc>
     <lastmod>2015-01-05T19:35:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yehzu.github.io/dingying/post/preface/</loc>
+    <loc>https://yehzu.github.io/dingying/posts/walk_taiwan/preface/</loc>
     <lastmod>2014-01-25T11:54:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yehzu.github.io/dingying/post/ddm-meditation-1/</loc>
+    <loc>https://yehzu.github.io/dingying/posts/2014/ddm-meditation-1/</loc>
     <lastmod>2014-01-08T23:56:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yehzu.github.io/dingying/post/zao-chun-tu/</loc>
+    <loc>https://yehzu.github.io/dingying/posts/2012/zao-chun-tu/</loc>
     <lastmod>2012-11-19T23:39:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/posts/</loc>
+    <lastmod>2019-01-10T22:38:53+08:00</lastmod>
   </url>
   
   <url>
@@ -80,6 +95,12 @@
   </url>
   
   <url>
+    <loc>https://yehzu.github.io/dingying/tags/java/</loc>
+    <lastmod>2019-01-10T22:38:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yehzu.github.io/dingying/tags/meditation/</loc>
     <lastmod>2014-01-08T23:56:09+08:00</lastmod>
     <priority>0</priority>
@@ -98,13 +119,19 @@
   </url>
   
   <url>
-    <loc>https://yehzu.github.io/dingying/post/</loc>
-    <lastmod>2017-06-12T20:16:53+08:00</lastmod>
+    <loc>https://yehzu.github.io/dingying/categories/programming/</loc>
+    <lastmod>2019-01-10T22:38:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yehzu.github.io/dingying/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yehzu.github.io/dingying/tags/stream/</loc>
+    <lastmod>2019-01-10T22:38:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -134,7 +161,7 @@
   
   <url>
     <loc>https://yehzu.github.io/dingying/</loc>
-    <lastmod>2017-06-12T20:16:53+08:00</lastmod>
+    <lastmod>2019-01-10T22:38:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   

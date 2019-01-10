@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stream on 定影</title>
+    <link>https://yehzu.github.io/dingying/tags/stream/</link>
+    <description>Recent content in Stream on 定影</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 10 Jan 2019 22:38:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://yehzu.github.io/dingying/tags/stream/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Java] Stream 的執行順序</title>
+      <link>https://yehzu.github.io/dingying/posts/2019/java-stream-order/</link>
+      <pubDate>Thu, 10 Jan 2019 22:38:53 +0800</pubDate>
+      
+      <guid>https://yehzu.github.io/dingying/posts/2019/java-stream-order/</guid>
+      <description>&lt;p&gt;Java 8 之後，有一個很大的特點是新的 Stream API，這個 API 讓工程師很輕易、簡潔、並以好理解的方式處理資料轉換。但這篇文章主要要講的不是如何使用 Stream，而是 Stream 處理的順序到底是怎麼樣的呢？&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
